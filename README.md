@@ -1,6 +1,4 @@
-world.
 
-## Tech Stack
 
 **Client:** React, Next.js, TypeScript, TailwindCSS, Framer Motion, GSAP.
 
