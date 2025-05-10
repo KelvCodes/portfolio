@@ -1,8 +1,4 @@
-
-
-## Run Locally
-
-Clone the project
+one the project
 
 ```bash
   git clone https://github.com/victorcodess/folio-v1
