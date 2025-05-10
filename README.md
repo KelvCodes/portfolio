@@ -1,9 +1,4 @@
-
-```
-
-Go to the project directory
-
-```bash
+ash
   cd folio-v1
 ```
 
