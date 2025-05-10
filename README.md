@@ -1,4 +1,4 @@
- run project is open source, and you are welcome to use the code or parts of the code for your own site. I encourage you to modify the theme and components to make it your own. However, please do not present any of the projects featured on this site as your own. The content of this portfolio is personal and represents real projects I’ve worked on.
+  your own site. I encourage you to modify the theme and components to make it your own. However, please do not present any of the projects featured on this site as your own. The content of this portfolio is personal and represents real projects I’ve worked on.
 
 If you are using the site’s design largely unmodified, please credit me as the designer of the website.
 
