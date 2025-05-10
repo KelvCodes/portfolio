@@ -1,9 +1,4 @@
-
-
-Start the server
-
-```bash
-  npm run dev
+ run dev
 ```
 
 ## Contributing & Usage
