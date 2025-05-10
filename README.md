@@ -1,4 +1,4 @@
-experimenting with new technologies and staying up-to-date with the latest trends in the tech world.
+world.
 
 ## Tech Stack
 
