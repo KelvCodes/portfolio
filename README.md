@@ -1,7 +1,5 @@
 
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228675919-70180c2c-c888-423d-ae85-409ce4645b8b.png)
-
 [View Live Demo](https://folio-v1-victorcodess.vercel.app/)
 
 ## Run Locally
