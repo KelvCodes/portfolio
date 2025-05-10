@@ -1,7 +1,5 @@
 
 
-[View Live Demo](https://folio-v1-victorcodess.vercel.app/)
-
 ## Run Locally
 
 Clone the project
