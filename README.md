@@ -1,4 +1,4 @@
-  However, please do not present any of the projects featured on this site as your own. The content of this portfolio is personal and represents real projects I’ve worked on.
+   featured on this site as your own. The content of this portfolio is personal and represents real projects I’ve worked on.
 
 If you are using the site’s design largely unmodified, please credit me as the designer of the website.
 
