@@ -1,4 +1,4 @@
-t clone https://github.com/victorcodess/folio-v1
+
 ```
 
 Go to the project directory
