@@ -1,6 +1,6 @@
     real projects I’ve worked  website.
 
-Incase you have any questions or concerns, please feel free to reach out to me on [Twitter.](https://twitter.com/victorwill__) I am always happy to help!
+Incase you have any  to me on [Twitter.](https://twitter.com/victorwill__) I am always happy to help!
 
 
 ## Feedback
