@@ -1,6 +1,4 @@
-ash
-  cd folio-v1
-```
+
 
 Install dependencies
 
