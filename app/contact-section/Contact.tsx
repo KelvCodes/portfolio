@@ -6,7 +6,9 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedWords2 from "../animations/AnimatedWords2";
 import { motion } from "framer-motion";
 import heartIcon from "../../public/heart icon.png";
-import { FaGithub, FaLinkedin, FaYoutube, FaInstagram, FaSnapchat } from "react-icons/fa"; // Import icons
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub, faLinkedin, faYoutube, faInstagram, faSnapchat } from "@fortawesome/free-brands-svg-icons";
+import { IconProp } from "@fortawesome/fontawesome-svg-core";
 
 const Contact = () => {
   return (
@@ -86,7 +88,7 @@ const Contact = () => {
                 animate="animate"
                 className="text-[16px] sm:text-[20px] md:text-[16px] lg:text-[28px] text-[#e4ded7] hover:text-[#ffffff] transition-colors"
               >
-                <FaGithub />
+                <FontAwesomeIcon icon={faGithub as IconProp} />
               </motion.div>
             </Link>
             <Link
@@ -99,7 +101,7 @@ const Contact = () => {
                 animate="animate"
                 className="text-[16px] sm:text-[20px] md:text-[16px] lg:text-[28px] text-[#e4ded7] hover:text-[#ffffff] transition-colors"
               >
-                <FaLinkedin />
+                <FontAwesomeIcon icon={faLinkedin as IconProp} />
               </motion.div>
             </Link>
             <Link
@@ -112,7 +114,7 @@ const Contact = () => {
                 animate="animate"
                 className="text-[16px] sm:text-[20px] md:text-[16px] lg:text-[28px] text-[#e4ded7] hover:text-[#ffffff] transition-colors"
               >
-                <FaYoutube />
+                <FontAwesomeIcon icon={faYoutube as IconProp} />
               </motion.div>
             </Link>
             <Link
@@ -125,7 +127,7 @@ const Contact = () => {
                 animate="animate"
                 className="text-[16px] sm:text-[20px] md:text-[16px] lg:text-[28px] text-[#e4ded7] hover:text-[#ffffff] transition-colors"
               >
-                <FaInstagram />
+                <FontAwesomeIcon icon={faInstagram as IconProp} />
               </motion.div>
             </Link>
             <Link
@@ -138,7 +140,7 @@ const Contact = () => {
                 animate="animate"
                 className="text-[16px] sm:text-[20px] md:text-[16px] lg:text-[28px] text-[#e4ded7] hover:text-[#ffffff] transition-colors"
               >
-                <FaSnapchat />
+                <FontAwesomeIcon icon={faSnapchat as IconProp} />
               </motion.div>
             </Link>
           </div>
