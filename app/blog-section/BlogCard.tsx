@@ -1,6 +1,7 @@
 import { blogProps } from "./blogDetails";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { IconProp } from "@fortawesome/fontawesome-svg-core";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
@@ -52,7 +53,7 @@ const BlogCard = ({ title, image, url, date, available, index }: blogProps) => {
               aria-label="Open Blog Post"
             >
               <FontAwesomeIcon
-                icon={faArrowRight}
+                icon={faArrowRight as IconProp}
                 className="w-[16px] rounded-full bg-[#0E1016] p-3 text-[16px] text-[#fff] md:w-[20px] md:text-[20px] lg:w-[18px] lg:p-4 lg:text-[18px]"
                 data-blobity
                 data-blobity-radius="30"
