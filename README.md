@@ -1,6 +1,6 @@
     real projects I’ve worked  website.
 
-Incase you have any  to me on [Twitter.](https://twitter.com/victorwill__) I am always happy to help!
+.com/victorwill__) I am always happy to help!
 
 
 ## Feedback
