@@ -1,1 +1,1 @@
-This is a Next.js app using TailwindC
+This is a Next.js app using TailwindCs
