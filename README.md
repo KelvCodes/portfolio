@@ -1,1 +1,1 @@
-This is a Next.js app using TailwindCss and Typescript for type saf
+This is a Next.js app using TailwindCss and Typescript for type safe
