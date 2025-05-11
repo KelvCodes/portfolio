@@ -1,1 +1,1 @@
-This is a Next.js app using TailwindCss and Typesc
+This is a Next.js app using TailwindCss and Typescr
