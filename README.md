@@ -1,1 +1,1 @@
-This is a Next.js app using Tai
+This is a Next.js app using Tail
