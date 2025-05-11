@@ -1,1 +1,1 @@
-This is a Next.js app using TailwindCss and Typescript f
+This is a Next.js app using TailwindCss and Typescript fo
