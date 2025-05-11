@@ -1,1 +1,1 @@
-This is a Next.js app using Tailwi
+This is a Next.js app using Tailwin
