@@ -6,4 +6,4 @@ This portfolio has the following sections;
 - Hero Section
 - Projects Section
 - Services Section
-- Reviews or Testimonials Sectio
+- Reviews or Testimonials Section
