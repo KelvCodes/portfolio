@@ -8,4 +8,4 @@ This portfolio has the following sections;
 - Services Section
 - Reviews or Testimonials Section
 - About Section
-   - Knowi
+   - Knowin
