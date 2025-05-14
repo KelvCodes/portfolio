@@ -9,4 +9,4 @@ This portfolio has the following sections;
 - Reviews or Testimonials Section
 - About Section
    - Knowing Me
-   - Songs I Recom
+   - Songs I Recomm
