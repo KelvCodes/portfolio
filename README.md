@@ -15,4 +15,4 @@ This portfolio has the following sections;
 - Footer
 
 ---
-Recruiters and all interested v
+Recruiters and all interested vi
