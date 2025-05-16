@@ -15,4 +15,4 @@ This portfolio has the following sections;
 - Footer
 
 ---
-Recruiters and all interested viewers can easily book a thirty-minute v
+Recruiters and all interested viewers can easily book a thirty-minute vi
