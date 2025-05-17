@@ -11,7 +11,7 @@ This portfolio has the following sections;
    - Knowing Me
    - Songs I Recommend
 - My Youtube Content
-   - The Tech
+   - The Tech T
 - Contact Section
 - Footer
 
