@@ -10,7 +10,7 @@ This portfolio has the following sections;
 - About Section
    - Knowing Me
    - Songs I Recommend
-- My Yout
+- My Youtu
 - Contact Section
 - Footer
 
