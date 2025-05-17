@@ -16,4 +16,4 @@ This portfolio has the following sections;
 - Footer
 
 ---
-Recruiters and all interested viewers can easily book a thirty-minute (30video meeting via Google meet.
+Recruiters and all interested viewers can easily book a thirty-minute (30 video meeting via Google meet.
