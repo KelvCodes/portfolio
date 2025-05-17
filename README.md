@@ -16,4 +16,4 @@ This portfolio has the following sections;
 - Footer
 
 ---
-Recruiters and all interested viewers can easily book a thirty-minute (30 mvideo meeting via Google meet.
+Recruiters and all interested viewers can easily book a thirty-minute (30 mivideo meeting via Google meet.
