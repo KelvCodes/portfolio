@@ -39,7 +39,7 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "Outside coding, I’m a Digital Creator crafting engaging content, a Re  fan, and a music enthusiast vibing to RnB, UK Drill, and Chill Rap."
+                "Outside coding, I’m a Digital Creator crafting engaging content, a Rea  fan, and a music enthusiast vibing to RnB, UK Drill, and Chill Rap."
               }
             />
             <AnimatedBody
