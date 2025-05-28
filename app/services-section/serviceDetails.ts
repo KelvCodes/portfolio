@@ -1,7 +1,4 @@
-ion:
-      "Designing intuitive, visually stunning interfaces with Figma and Framer, ensuring user-friendly and engaging experiences.",
-    icon: "FaPaintBrush",
-    index: 3,
+x: 3,
   },
   {
     name: "Digital Content Creation",
