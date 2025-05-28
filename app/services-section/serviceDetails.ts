@@ -1,7 +1,4 @@
-x: 1,
-  },
-  {
-    name: "Machine Learning Integration",
+e: "Machine Learning Integration",
     description:
       "Integrating AI-powered features into web apps using TensorFlow.js and other ML frameworks for intelligent, dynamic functionality.",
     icon: "FaBrain",
