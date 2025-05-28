@@ -19,4 +19,5 @@ export const serviceDetails: serviceProps[] = [
      index: 1,
   },
   {
+     name: "Machine Learning Integration",
       
