@@ -1,6 +1,4 @@
-//
-
-export const serviceDetails: serviceProps[] = [
+ const serviceDetails: serviceProps[] = [
   {
     name: "Frontend Development",
     description:
