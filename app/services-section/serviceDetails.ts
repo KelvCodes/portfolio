@@ -1,6 +1,4 @@
-ating decentralized applications and smart contracts with Web3.js, ethers.js, and Solidity for secure, transparent solutions.",
-    icon: "FaEthereum",
-    index: 1,
+x: 1,
   },
   {
     name: "Machine Learning Integration",
