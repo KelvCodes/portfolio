@@ -1,8 +1,4 @@
-,
-  },
-  {
-    name: "UI/UX Design",
-    description:
+ion:
       "Designing intuitive, visually stunning interfaces with Figma and Framer, ensuring user-friendly and engaging experiences.",
     icon: "FaPaintBrush",
     index: 3,
