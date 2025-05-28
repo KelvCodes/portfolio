@@ -1,7 +1,4 @@
-scription:
- "FaCode",
-    index: 0,
-  },
+
   {
     name: "Blockchain Development",
     description:
