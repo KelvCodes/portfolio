@@ -20,4 +20,6 @@ export const serviceDetails: serviceProps[] = [
   },
   {
      name: "Machine Learning Integration",
+        description:
+      "Embedding intelligent, AI-driven features into applications using TensorFlow.js and other ML frameworks to create adaptive and smart user experiences.",
       
