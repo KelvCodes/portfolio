@@ -1,6 +1,4 @@
-ting AI-powered features into web apps using TensorFlow.js and other ML frameworks for intelligent, dynamic functionality.",
-    icon: "FaBrain",
-    index: 2,
+,
   },
   {
     name: "UI/UX Design",
