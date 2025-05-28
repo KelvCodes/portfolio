@@ -1,4 +1,4 @@
-export type serviceProps = {
+e serviceProps = {
   name: string;
   description: string;
   icon: string; // Icon component name from react-icons (e.g., 'FaCode')
