@@ -1,5 +1,3 @@
-egies to drive innovation and growth.",
-    icon: "FaComments",
-    index: 5,
+egies to drive innovation    index: 5,
   },
 ];
