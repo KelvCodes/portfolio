@@ -13,3 +13,4 @@ export const serviceDetails: serviceProps[] = [
       index: 0,
   },
   {
+     name: "Blockchain Development",
