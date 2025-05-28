@@ -1,7 +1,4 @@
-x: 3,
-  },
-  {
-    name: "Digital Content Creation",
+e: "Digital Content Creation",
     description:
       "Producing engaging videos, graphics, and social media content using Adobe Premiere Pro, Canva, and Photoshop.",
     icon: "FaVideo",
