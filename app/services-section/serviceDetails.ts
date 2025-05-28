@@ -1,6 +1,4 @@
-ription:
-      "Producing engaging videos, graphics, and social media content using Adobe Premiere Pro, Canva, and Photoshop.",
-    icon: "FaVideo",
+ideo",
     index: 4,
   },
   {
