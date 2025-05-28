@@ -15,4 +15,5 @@ export const serviceDetails: serviceProps[] = [
   {
      name: "Blockchain Development",
     description: "Building secure and transparent decentralized applications and smart contracts using Web3.js, ethers.js, and Solidity for the future of the internet.",
+     icon: "FaEthereum",
       
