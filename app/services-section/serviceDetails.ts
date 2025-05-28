@@ -1,5 +1,4 @@
-ring;
-  description: string;
+ption: string;
   icon: string; // Icon component name from react-icons (e.g., 'FaCode')
   index: number;
 };
