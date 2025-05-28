@@ -1,6 +1,5 @@
 scription:
-      "Building high-performance, responsive web applications using React, Next.js, and TypeScript for seamless user experiences.",
-    icon: "FaCode",
+ "FaCode",
     index: 0,
   },
   {
