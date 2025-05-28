@@ -1,5 +1,4 @@
-e: "Digital Content Creation",
-    description:
+ription:
       "Producing engaging videos, graphics, and social media content using Adobe Premiere Pro, Canva, and Photoshop.",
     icon: "FaVideo",
     index: 4,
