@@ -1,5 +1,4 @@
-e serviceProps = {
-  name: string;
+ring;
   description: string;
   icon: string; // Icon component name from react-icons (e.g., 'FaCode')
   index: number;
