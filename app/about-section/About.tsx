@@ -1,5 +1,4 @@
-tive z-1
-    >
+
       <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <AnimatedTitle
           text={"I BUILD BEAUTIFUL BRANDS, POWERFUL WEBSITES, AND ENGAGING CONTENT — POWERED BY AI & WEB3."}
