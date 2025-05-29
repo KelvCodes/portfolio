@@ -2,9 +2,7 @@ me="dBody
                 text={
                   "Figma, Framer, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, Adobe Premiere Pro, Canva, UX Research, UI Design, Prototyping."
                 }
-              />
-            </div>
-          </div>
+          
         </div>
         <div className="mt-10 flex flex-col md:-mt-0 lg:mt-28">
           <SongCarousel />
