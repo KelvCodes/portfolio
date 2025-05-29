@@ -1,6 +1,4 @@
-assNa
-                wordSpace={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
+assNapace={"mr-[0.01em]"}
               />
               <AnimatedBody
                 text={
