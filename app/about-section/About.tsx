@@ -1,6 +1,6 @@
 n lie
-            />
-            <AnimatedBody
+
+
               text={
                 "As an active leader in tech communities, I’m part of Google Developer Student Clubs and Microsoft Learn Student Ambassadors, where I’ve led workshops on web development, Blockchain, and ML, mentoring students to unlock their potential."
               }
