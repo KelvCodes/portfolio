@@ -1,5 +1,4 @@
-   <An
-          text={"I BUILD BEAUTIFUL BRANDS, POWERFUL WEBSITES, AND ENGAGING CONTENT — POWERED BY AI & WEB3."}
+L WEBSITES, AND ENGAGING CONTENT — POWERED BY AI & WEB3."}
           className={
             "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
           }
