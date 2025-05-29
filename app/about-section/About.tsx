@@ -1,5 +1,4 @@
-
-      <div className="mx-auto flex w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
+w-[90%] flex-col items-center justify-center lg:max-w-[1212.8px]">
         <An
           text={"I BUILD BEAUTIFUL BRANDS, POWERFUL WEBSITES, AND ENGAGING CONTENT — POWERED BY AI & WEB3."}
           className={
