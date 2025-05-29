@@ -1,7 +1,4 @@
-ce={"mr-[0.25em]"}
-                charSpace={"mr-[0.01em]"}
-              />
-              <AnimatedBody
+ce=tedBody
                 text={
                   "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
                 }
