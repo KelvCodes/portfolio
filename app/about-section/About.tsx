@@ -1,8 +1,5 @@
 me="flex flex-col gap-3">
-              <AnimatedTitle
-                text={"Design & Creator Tools"}
-                className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
+   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
                 wordSpace={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
