@@ -1,9 +1,4 @@
-n lie
 
-
-            />
-            <AnimatedBody
-              text={
                 "Outside coding, I’m a Digital Creator crafting engaging content(on youtube), a Real Madrid and an Arsenal lover, and a music enthusiast vibing to RnB, UK Drill, and Chill Rap."
               }
             />
