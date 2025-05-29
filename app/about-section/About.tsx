@@ -1,5 +1,4 @@
-:max-w-[1200px] lg:flex-ro
-              text={
+
                 "I’m a Frontend Engineer specializing in high-performance web applications for SaaS and startups, with expertise in Blockchain and Machine Learning to build cutting-edge solutions."
               }
             />
