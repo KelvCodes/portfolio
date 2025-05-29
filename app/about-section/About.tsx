@@ -1,6 +1,4 @@
-n lies in creating seamless user experiences, whether it’s designing intuitive interfaces, developing decentralized apps with Blockchain, or integrating intelligent features with ML. I thrive on exploring new tech and pushing the boundaries of what’s possible."
-              }
-              className={"hidden"}
+n lie
             />
             <AnimatedBody
               text={
