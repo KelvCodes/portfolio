@@ -1,4 +1,4 @@
-/animations/AnimatedTitle";
+
 
 const About = () => {
   return (
