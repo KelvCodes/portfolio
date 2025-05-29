@@ -1,4 +1,4 @@
-ations/animate.css";
+ati
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 
