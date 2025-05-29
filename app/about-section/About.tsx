@@ -1,9 +1,4 @@
-
-      I Libraries"}
-                className={
-                  "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
-                }
-                wordSpace={"mr-[0.25em]"}
+ce={"mr-[0.25em]"}
                 charSpace={"mr-[0.01em]"}
               />
               <AnimatedBody
