@@ -1,5 +1,4 @@
-ousel from "./SongCarousel";
-import "../animations/animate.css";
+ations/animate.css";
 import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 
