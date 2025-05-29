@@ -1,6 +1,4 @@
-:max-w-[1200px] lg:flex-row lg:gap-20">
-          <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16 lg:max-w-[90%] lg:text-[24px]">
-            <AnimatedBody
+:max-w-[1200px] lg:flex-ro
               text={
                 "I’m a Frontend Engineer specializing in high-performance web applications for SaaS and startups, with expertise in Blockchain and Machine Learning to build cutting-edge solutions."
               }
