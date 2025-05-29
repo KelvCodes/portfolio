@@ -1,5 +1,4 @@
-ati
-import AnimatedBody from "../animations/AnimatedBody";
+om "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 
 const About = () => {
