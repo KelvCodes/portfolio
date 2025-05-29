@@ -1,10 +1,4 @@
-ce=tedBody
-                text={
-                  "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
-                }
-              />
-            </div>
-            <div className="flex flex-col gap-3">
+me="flex flex-col gap-3">
               <AnimatedTitle
                 text={"Design & Creator Tools"}
                 className={
