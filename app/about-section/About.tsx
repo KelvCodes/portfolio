@@ -1,8 +1,4 @@
 
-                "Outside coding, I’m a Digital Creator crafting engaging content(on youtube), a Real Madrid and an Arsenal lover, and a music enthusiast vibing to RnB, UK Drill, and Chill Rap."
-              }
-            />
-            <AnimatedBody
               text={
                 "I'm currently working on some exciting projects that I can't wait to share with you. But I’m always open to new opportunities and collaborations."
               }
