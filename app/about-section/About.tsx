@@ -1,8 +1,5 @@
 
-      
-            <div className="flex flex-col gap-3">
-              <AnimatedTitle
-                text={"UI Libraries"}
+      I Libraries"}
                 className={
                   "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]"
                 }
