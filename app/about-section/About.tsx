@@ -1,10 +1,4 @@
-me="dBody
-                text={
-                  "Figma, Framer, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, Adobe Premiere Pro, Canva, UX Research, UI Design, Prototyping."
-                }
-          
-        </div>
-        <div className="mt-10 flex flex-col md:-mt-0 lg:mt-28">
+ className="mt-10 flex flex-col md:-mt-0 lg:mt-28">
           <SongCarousel />
           <AnimatedBody
             text="A few songs I can recommend if you're looking for some fresh tunes :)"
