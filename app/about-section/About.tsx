@@ -1,7 +1,4 @@
-assNapace={"mr-[0.01em]"}
-              />
-              <AnimatedBody
-                text={
+
                   "JavaScript (ES6+), React, Next.js, TypeScript, Web3.js, ethers.js, Solidity, TensorFlow.js, Prismic CMS, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
                 }
               />
