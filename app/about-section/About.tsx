@@ -1,5 +1,4 @@
-";
-import AnimatedTitle from "../animations/AnimatedTitle";
+/animations/AnimatedTitle";
 
 const About = () => {
   return (
