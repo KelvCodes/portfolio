@@ -76,11 +76,7 @@ export const devProjects = [
     image: require(".//../../public/projects/food.png"),
     available: true,
   },
-
-
-e",
-  //   demo: "",
-  //   image: require(".//../../public/projects/carpool-new.webp"),
+e(".//../../public/projects/carpool-new.webp"),
   //   available: false,
   // },
   // {
