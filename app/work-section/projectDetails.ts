@@ -77,8 +77,7 @@ export const devProjects = [
     available: true,
   },
 
-  // {
-  //   id: 4,
+
   //   name: "SkyWatch",
   //   description:
   //     "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
