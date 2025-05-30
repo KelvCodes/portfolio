@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
   
-  //   name: "MLSC.ng",
+  //  
   //   description:
   //     "This is platform for Microsoft Learn Student Ambassadors to shorten links, append their sharing IDs and generate event certificates.",
   //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
