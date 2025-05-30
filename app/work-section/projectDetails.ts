@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
 
-ywatch-flip.png"),
+
 
   //   name: "Alpaca Image Generator",
   //   description:
