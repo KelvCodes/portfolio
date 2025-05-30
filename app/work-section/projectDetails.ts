@@ -1,4 +1,4 @@
-export type ProjectProps = {
+sexport type ProjectProps = {
   id: number;
   name: string;
   description: string;
@@ -77,7 +77,7 @@ export const devProjects = [
     available: true,
   },
 
-  // {
+  
   //   id: 7,
   //   name: "MLSC.ng",
   //   description:
