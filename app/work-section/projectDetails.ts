@@ -80,7 +80,7 @@ export const devProjects = [
 
 
 
-erge Images"],
+e
   //   github: "https://github.com/victorcodess/alpaca-image-generator",
   //   demo: "http://alpaca-image-generator-beta.vercel.app",
   //   image: require(".//../../public/projects/alpaca-flip.png"),
