@@ -80,9 +80,7 @@ export const devProjects = [
 
 
 
-
-  //     "An image generator website that allows users to generate, combine, and download images.",
-  //   technologies: ["React", "CSS", "Merge Images"],
+erge Images"],
   //   github: "https://github.com/victorcodess/alpaca-image-generator",
   //   demo: "http://alpaca-image-generator-beta.vercel.app",
   //   image: require(".//../../public/projects/alpaca-flip.png"),
