@@ -77,9 +77,7 @@ export const devProjects = [
     available: true,
   },
 
-  
-d generate event certificates.",
-  //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
+  chnologies: ["Next.js", "Next Auth", "Tailwind CSS"],
   //   github: "https://github.com/msp-nigeria/mlsc.ng-frontend",
   //   demo: "",
   //   image: require(".//../../public/projects/mlsc.png"),
