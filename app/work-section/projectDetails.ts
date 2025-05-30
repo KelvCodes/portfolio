@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
   
-pend their sharing IDs and generate event certificates.",
+d generate event certificates.",
   //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
   //   github: "https://github.com/msp-nigeria/mlsc.ng-frontend",
   //   demo: "",
