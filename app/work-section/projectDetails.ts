@@ -82,8 +82,6 @@ export const devProjects = [
 
   // },
 
-thub.com/victorcodess/url-shortener",
--nine-delta.vercel.app",
   //   image: require(".//../../public/projects/shortener-new.webp"),
   //   available: true,
   // },
