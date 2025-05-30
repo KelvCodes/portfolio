@@ -80,9 +80,7 @@ export const devProjects = [
 
 
 
-  // },
-
-  //   image: require(".//../../public/projects/shortener-new.webp"),
+  /../../public/projects/shortener-new.webp"),
   //   available: true,
   // },
   // {
