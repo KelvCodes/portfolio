@@ -80,8 +80,7 @@ export const devProjects = [
 
 
 
-  /../../public/projects/shortener-new.webp"),
-  //   available: true,
+
   // },
   // {
   //   id: 6,
