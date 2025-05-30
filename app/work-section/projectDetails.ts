@@ -82,10 +82,6 @@ export const devProjects = [
 
   // },
 
-  // {
-  //   id: 5,
-  //   name: "Link Shortener",
-  //   description:
   //     "A website that reduces the length of your URL using Bit.ly's API",
   //   technologies: ["JavaScript", "CSS", "Bit.ly's API"],
   //   github: "https://github.com/victorcodess/url-shortener",
