@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
 
-  //   image: requ  available: false,
+  //requ  available: false,
   // },
 ];
 
