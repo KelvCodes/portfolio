@@ -78,10 +78,7 @@ export const devProjects = [
   },
 
 
-
-so they can share a ride and split the cost.",
-  //   technologies: ["Material UI", "React", "Formik"],
-  //   github: "https://github.com/victorcodess/carpooling-service",
+e",
   //   demo: "",
   //   image: require(".//../../public/projects/carpool-new.webp"),
   //   available: false,
