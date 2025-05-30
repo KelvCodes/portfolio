@@ -77,8 +77,7 @@ export const devProjects = [
     available: true,
   },
 
-  cria/rontend",
-  //   demo: "",
+  cria/ro
   //   image: require(".//../../public/projects/mlsc.png"),
   //   available: false,
   // },
