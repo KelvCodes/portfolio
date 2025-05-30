@@ -77,7 +77,7 @@ export const devProjects = [
     available: true,
   },
 
-  chno.com/msp-nigeria/mlsc.ng-frontend",
+  cria/mlsc.ng-frontend",
   //   demo: "",
   //   image: require(".//../../public/projects/mlsc.png"),
   //   available: false,
