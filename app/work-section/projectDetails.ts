@@ -78,8 +78,6 @@ export const devProjects = [
   },
 
 
-
-  // },
 ];
 
 export const designProjects = [
