@@ -82,8 +82,7 @@ export const devProjects = [
   //   description:
   //     "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current weather and forecast for the next 2 days in any city.",
   //   technologies: ["React", "CSS", "Chart.js"],
-  //   github: "https://github.com/victorcodess/weather-forecast-website",
-  //   dere(".//../../public/projects/skywatch-flip.png"),
+  //   gi/public/projects/skywatch-flip.png"),
 
   //   name: "Alpaca Image Generator",
   //   description:
