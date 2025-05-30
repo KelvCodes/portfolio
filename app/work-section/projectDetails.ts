@@ -83,7 +83,7 @@ export const devProjects = [
   // },
 
 thub.com/victorcodess/url-shortener",
-  //   demo: "https://url-shortener-nine-delta.vercel.app",
+-nine-delta.vercel.app",
   //   image: require(".//../../public/projects/shortener-new.webp"),
   //   available: true,
   // },
