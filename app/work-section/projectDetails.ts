@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
   
-rm for Microsoft Learn Student Ambassadors to shorten links, append their sharing IDs and generate event certificates.",
+t Ambassadors to shorten links, append their sharing IDs and generate event certificates.",
   //   technologies: ["Next.js", "Next Auth", "Tailwind CSS"],
   //   github: "https://github.com/msp-nigeria/mlsc.ng-frontend",
   //   demo: "",
