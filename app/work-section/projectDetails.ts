@@ -78,8 +78,7 @@ export const devProjects = [
   },
 
 
-  //   image: require(".//../../public/projects/mlsc.png"),
-  //   available: false,
+  //   image: requ  available: false,
   // },
 ];
 
