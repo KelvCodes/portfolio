@@ -80,9 +80,6 @@ export const devProjects = [
 
 
 
-  //   demo: "http://alpaca-image-generator-beta.vercel.app",
-  //   image: require(".//../../public/projects/alpaca-flip.png"),
-  //   available: true,
   // },
 
   // {
