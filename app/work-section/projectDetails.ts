@@ -81,10 +81,7 @@ export const devProjects = [
 
 
 
-  // },
-  // {
-  //   id: 6,
-  //   name: "Carpooling Service",
+
   //   description:
   //     "TMTM helps Covenant University students find fellow students who are headed to the same location, so they can share a ride and split the cost.",
   //   technologies: ["Material UI", "React", "Formik"],
