@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
 
- //   technologies: ["React", "CSS", "Chart.js"],
+ ", "Chart.js"],
   //   gi/public/projects/skywatch-flip.png"),
 
   //   name: "Alpaca Image Generator",
