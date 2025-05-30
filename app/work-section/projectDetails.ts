@@ -78,7 +78,7 @@ export const devProjects = [
   },
 
 
-able: false,
+
   // },
 ];
 
