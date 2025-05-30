@@ -82,9 +82,7 @@ export const devProjects = [
 
   // },
 
-  //     "A website that reduces the length of your URL using Bit.ly's API",
-  //   technologies: ["JavaScript", "CSS", "Bit.ly's API"],
-  //   github: "https://github.com/victorcodess/url-shortener",
+thub.com/victorcodess/url-shortener",
   //   demo: "https://url-shortener-nine-delta.vercel.app",
   //   image: require(".//../../public/projects/shortener-new.webp"),
   //   available: true,
