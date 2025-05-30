@@ -78,8 +78,7 @@ export const devProjects = [
   },
 
 
- ", "Chart.js"],
-  //   gi/public/projects/skywatch-flip.png"),
+ywatch-flip.png"),
 
   //   name: "Alpaca Image Generator",
   //   description:
