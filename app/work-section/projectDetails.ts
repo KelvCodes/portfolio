@@ -77,8 +77,7 @@ export const devProjects = [
     available: true,
   },
 e(".//../../public/projects/carpool-new.webp"),
-  //   available: false,
-  // },
+
   // {
   //   id: 7,
   //   name: "MLSC.ng",
