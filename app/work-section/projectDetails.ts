@@ -85,10 +85,7 @@ export const devProjects = [
   //   github: "https://github.com/victorcodess/weather-forecast-website",
   //   demo: "https://sky-watch.vercel.app/",
   //   image: require(".//../../public/projects/skywatch-flip.png"),
-  //   available: true,
-  // },
-  // {
-  //   id: 4,
+
   //   name: "Alpaca Image Generator",
   //   description:
   //     "An image generator website that allows users to generate, combine, and download images.",
