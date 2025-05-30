@@ -80,8 +80,7 @@ export const devProjects = [
 
 
 
-  //   name: "Alpaca Image Generator",
-  //   description:
+
   //     "An image generator website that allows users to generate, combine, and download images.",
   //   technologies: ["React", "CSS", "Merge Images"],
   //   github: "https://github.com/victorcodess/alpaca-image-generator",
