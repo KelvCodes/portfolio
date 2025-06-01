@@ -28,7 +28,7 @@ export const reviewDetails: reviewProps[] = [
     company: "Google",
     profileImg: emma,
     testimonial:
-      "Kelvin was an exceptional student in my Blcain course. His smart contract project using Solidity showcased deep understanding and creativity, earning top marks.",
+      "Kelvin was an exceptional student in my Blcan course. His smart contract project using Solidity showcased deep understanding and creativity, earning top marks.",
     index: 1,
   },
   {
