@@ -118,6 +118,4 @@ onst desi  {
     id: 4,
     name: "Titi Mobile App",
     description:
-      "TMTM helps you find people who are headed to the same location as you, so you can share a ride and split the cost with them.",
-    technologi
-   
+
