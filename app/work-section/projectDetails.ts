@@ -96,8 +96,7 @@ onst desi  {
     name: "RAGS Scrubs Website",
     description:
       "An image generator website that allows users to generate, combine, and download images.",
-    technologies: ["UX Research", "UI Design", "Prototyping"],
-    github: "",
+
    
 
    
