@@ -80,9 +80,6 @@ export const devProjects = [
 
 ];
 
-onst desi  {
-    id: 1,
-    name: "Hebron Statup Lab Website",
 
 
    
