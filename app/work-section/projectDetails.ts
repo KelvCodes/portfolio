@@ -83,10 +83,7 @@ export const devProjects = [
 onst desi  {
     id: 1,
     name: "Hebron Statup Lab Website",
-    description:
-      "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current.",
-    t
-    
+
 
    
 
