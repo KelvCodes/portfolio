@@ -1,7 +1,5 @@
 \//github.com/KelvCodes/ResumeCoverAI",
-    demo: "https://resumecoverai.netlify.app/",
-    image: require(".//../../public/projects/resume.png"),
-    available: true,
+   true,
   },
   {
     id: 1,
