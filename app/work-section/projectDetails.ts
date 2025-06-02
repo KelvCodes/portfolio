@@ -1,7 +1,4 @@
-/github.com/gourab9817/SyncCodes",
-   : require(".//../../public/projects/real.png"),
-    available: true,
-  },
+
   {
     id: 2,
     name: "AcademyX",
