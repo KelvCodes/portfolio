@@ -1,6 +1,4 @@
-\//github.com/KelvCodes/ResumeCoverAI",
-   true,
-  },
+
   {
     id: 1,
     name: "SyncCodes",
