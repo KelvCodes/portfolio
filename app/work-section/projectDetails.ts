@@ -98,7 +98,7 @@ onst desi  {
       "An image generator website that allows users to generate, combine, and download images.",
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
-    dcts%2Frags.webp&w=1920&q=75",
+   
 
    
  
