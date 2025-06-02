@@ -1,7 +1,4 @@
-n:
-      "SyncCodes is an advanced collaborative platform designed for real-time synchronization and editing of code across multiple users. Built with WebRTC and WebSockets, it combines the power of real-time communication. ",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/gourab9817/SyncCodes",
+/github.com/gourab9817/SyncCodes",
     demo: "https://www.synccode.live/",
     image: require(".//../../public/projects/real.png"),
     available: true,
