@@ -100,8 +100,6 @@ onst desi  {
     github: "",
     demo: "",
     image: "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Frags.webp&w=1920&q=75",
-    available: false,
-  },
 
    
  
