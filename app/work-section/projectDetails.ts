@@ -1,11 +1,6 @@
 
   {
-    id: 2,
-    name: "AcademyX",
-    description:
-      "Academy X is a web-based(for now) AI-driven educational platform designed for maximum accessibility and intelligent learning — even on low-end devices or offline. Built entirely with HTML, CSS, JavaScript, and TensorFlow.js.",
-    technologies: ["React", "Next.js", "Prismic CMS"],
-    github: "https://github.com/KelvCodes/AcademyX",
+ttps://github.com/KelvCodes/AcademyX",
     demo: "https://myacademyx.netlify.app/",
     image: require(".//../../public/projects/academy.png"),
     available: true,
