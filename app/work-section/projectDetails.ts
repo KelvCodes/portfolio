@@ -1,6 +1,4 @@
-sexport type ProjectProps = {
-  id: number;
-  name: string;
+sexpo
   description: string;
   technologies: string[];
   github: string;
