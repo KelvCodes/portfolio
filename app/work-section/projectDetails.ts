@@ -111,6 +111,6 @@ onst desi  {
     github: "",
     demo: "",
     image:
-      "/_next/image?url=%
+
  
 
