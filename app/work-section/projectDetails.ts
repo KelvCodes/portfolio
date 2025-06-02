@@ -106,8 +106,7 @@ onst desi  {
     id: 3,
     name: "Crown Branding Agency Website",
     description:
-      "A website that reduces the length of your URL using Bit.ly's API",
-    technologies: ["
+    
 
     
 
