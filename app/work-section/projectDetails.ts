@@ -80,7 +80,7 @@ export const devProjects = [
 
 ];
 
-export const designProjects = [
+onst designProjects = [
   {
     id: 1,
     name: "Hebron Statup Lab Website",
