@@ -122,5 +122,4 @@ onst desi  {
     technologies: ["UX Research", "UI Design", "Prototyping"],
     github: "",
     demo: "",
-    image: "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Ftiti.webp&w=1920&q=75",
-
+   
