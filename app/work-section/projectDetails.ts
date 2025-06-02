@@ -85,8 +85,7 @@ onst desi  {
     name: "Hebron Statup Lab Website",
     description:
       "SkyWatch is a convenient and user-friendly tool that allows you to quickly and easily check the current.",
-    technologies: ["UX Research", "UI Design", "Prototyping"],
-    github: "",
+    t
     
 
    
