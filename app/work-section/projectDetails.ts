@@ -1,7 +1,4 @@
-
-      "A smart, AI-powered tool that creates professional resumes & cover letters with zero stress! Simply input your details, get AI-generated suggestions, and download a polished PDF in seconds!",
-    technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "https://github.com/KelvCodes/ResumeCoverAI",
+\//github.com/KelvCodes/ResumeCoverAI",
     demo: "https://resumecoverai.netlify.app/",
     image: require(".//../../public/projects/resume.png"),
     available: true,
