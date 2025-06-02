@@ -1,7 +1,4 @@
-
-  demo: string;
-  image: string;
-  available: boolean;
+n;
 };
 
 export const devProjects = [
