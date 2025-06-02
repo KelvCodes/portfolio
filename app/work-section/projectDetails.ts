@@ -111,6 +111,6 @@ onst desi  {
     github: "",
     demo: "",
     image:
-      "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Fcrown.webp&w=1920&q=75",
+      "/_next/image?url=%2F..%2Fpublic%2Fprojects%2Fcrown.we
  
 
