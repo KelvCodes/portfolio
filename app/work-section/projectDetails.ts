@@ -93,9 +93,7 @@ onst desi  {
   },
   {
     id: 2,
-    name: "RAGS Scrubs Website",
-    description:
-      "An image generator website that allows users to generate, combine, and download images.",
+   
 
    
 
