@@ -1,6 +1,5 @@
 /github.com/gourab9817/SyncCodes",
-    demo: "https://www.synccode.live/",
-    image: require(".//../../public/projects/real.png"),
+   : require(".//../../public/projects/real.png"),
     available: true,
   },
   {
