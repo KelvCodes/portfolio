@@ -1,4 +1,4 @@
-e, and scalable web applications using     icon: "FaCode",
+tions using     icon: "FaCode",
       index: 0,
   },
   {
