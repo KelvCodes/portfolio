@@ -23,3 +23,6 @@ export type serviceProps = {
     icon: "FaBrain",
    index: 2,
   },
+  {
+    name: "UI/UX Design",
+    description:
