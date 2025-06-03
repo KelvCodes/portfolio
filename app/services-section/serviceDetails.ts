@@ -1,7 +1,4 @@
-rush",
-    index: 3,
-  },
-  {
+
     name: "Digital Content Creation",
     description:
       "Producing impactful visual content—from videos to graphics—for social media and marketing using Adobe Premiere Pro, Canva, and Photoshop.",
