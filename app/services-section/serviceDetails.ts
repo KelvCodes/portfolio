@@ -1,5 +1,4 @@
-e, and scalable web applications using modern technologies like React, Next.js, and TypeScript to deliver seamless digital experiences.",
-     icon: "FaCode",
+e, and scalable web applications using     icon: "FaCode",
       index: 0,
   },
   {
