@@ -29,3 +29,6 @@ export type serviceProps = {
     icon: "FaPaintBrush",
    index: 3,
   },
+   {
+    name: "Digital Content Creation",
+    description:
