@@ -1,5 +1,4 @@
-oer;
-};
+
 export const serviceDetails: serviceProps[] = [
   {
      name: "Frontend Development",
