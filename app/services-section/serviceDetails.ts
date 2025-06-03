@@ -7,4 +7,5 @@ export type serviceProps = {
    export const serviceDetails: serviceProps[] = [
        {
     name: "Frontend Development",
-    description:
+    description:  "Developing lightning-fast, responsive, and scalable web applications with modern stacks like React, Next.js, and TypeScript—delivering smooth, intuitive digital experiences.",
+    icon: "FaCode",
