@@ -1,6 +1,5 @@
 
-     intelligent, 
-    index: 2,
+     i,
   },
    {
     name: "UI/UX Design",
