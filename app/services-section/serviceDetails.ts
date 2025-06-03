@@ -19,4 +19,5 @@ export type serviceProps = {
   },
   {
     name: "Machine Learning Integration",
-    description:
+    description:   "Empowering applications with intelligent, AI-driven features using TensorFlow.js and cutting-edge ML frameworks to deliver personalized and predictive user experiences.",
+    icon: "FaBrain",
