@@ -37,4 +37,8 @@ export type serviceProps = {
   },
          {
     name: "Technical Consulting",
-    description:
+    description:      "Providing expert guidance on web development, blockchain solutions, and AI integration—helping teams innovate efficiently, scale confidently, and stay ahead of the curve.",
+    icon: "FaComments",
+    index: 5,
+  },
+];
