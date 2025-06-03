@@ -1,6 +1,5 @@
 ,
-    index: 4,
-  },
+ 
   {
     name: "Technical Consulting",
     description:
