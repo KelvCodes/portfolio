@@ -13,4 +13,5 @@ export type serviceProps = {
   },
   {
     name: "Blockchain Development",
-    description:
+    description:"Engineering secure, decentralized applications and smart contracts with Web3.js, ethers.js, and Solidity—paving the way for the future of digital trust and transparency.",
+    icon: "FaEthereum",
