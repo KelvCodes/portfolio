@@ -33,3 +33,5 @@ export type serviceProps = {
     name: "Digital Content Creation",
     description:    "Creating high-impact digital content—from stunning visuals to dynamic videos—for social media, branding, and marketing using Adobe Premiere Pro, Canva, and Photoshop.",
     icon: "FaVideo",
+   index: 4,
+  },
