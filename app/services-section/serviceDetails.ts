@@ -1,6 +1,5 @@
 
-     name
-      "Embedding intelligent, AI-driven features into applications using TensorFlow.js and other ML frameworks to create adaptive and smart user experiences.",
+     intelligent, AI-driven features into applications using TensorFlow.js and other ML frameworks to create adaptive and smart user experiences.",
      icon: "FaBrain",
     index: 2,
   },
