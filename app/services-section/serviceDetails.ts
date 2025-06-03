@@ -1,5 +1,4 @@
-ning beautiful, intuitive, and user-centric interfaces with tools like Figma and Framer to ensure captivating and smooth user journeys.",
-    icon: "FaPaintBrush",
+rush",
     index: 3,
   },
   {
