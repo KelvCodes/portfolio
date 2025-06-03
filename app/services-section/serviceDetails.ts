@@ -1,5 +1,4 @@
-
-      "Crafting fast, responsive, and scalable web applications using modern technologies like React, Next.js, and TypeScript to deliver seamless digital experiences.",
+e, and scalable web applications using modern technologies like React, Next.js, and TypeScript to deliver seamless digital experiences.",
      icon: "FaCode",
       index: 0,
   },
