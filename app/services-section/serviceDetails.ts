@@ -5,3 +5,6 @@ export type serviceProps = {
   index: number;
    
    export const serviceDetails: serviceProps[] = [
+       {
+    name: "Frontend Development",
+    description:
