@@ -1,6 +1,4 @@
-
-      "Producing impactful visual content—from videos to graphics—for social media and marketing using Adobe Premiere Pro, Canva, and Photoshop.",
-    icon: "FaVideo",
+,
     index: 4,
   },
   {
