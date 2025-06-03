@@ -1,7 +1,4 @@
 
-     i,
-  },
-   {
     name: "UI/UX Design",
     description:
       "Designing beautiful, intuitive, and user-centric interfaces with tools like Figma and Framer to ensure captivating and smooth user journeys.",
