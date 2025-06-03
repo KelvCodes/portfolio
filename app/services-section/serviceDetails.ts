@@ -9,3 +9,5 @@ export type serviceProps = {
     name: "Frontend Development",
     description:  "Developing lightning-fast, responsive, and scalable web applications with modern stacks like React, Next.js, and TypeScript—delivering smooth, intuitive digital experiences.",
     icon: "FaCode",
+     index: 0,
+  },
