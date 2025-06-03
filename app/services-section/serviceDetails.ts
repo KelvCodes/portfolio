@@ -17,3 +17,6 @@ export type serviceProps = {
     icon: "FaEthereum",
            index: 1,
   },
+  {
+    name: "Machine Learning Integration",
+    description:
