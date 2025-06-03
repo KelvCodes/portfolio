@@ -27,3 +27,5 @@ export type serviceProps = {
     name: "UI/UX Design",
     description:     "Designing visually compelling, user-first interfaces with tools like Figma and Framer—ensuring every interaction feels effortless, elegant, and impactful.",
     icon: "FaPaintBrush",
+   index: 3,
+  },
